@@ -1,0 +1,6 @@
+{
+  "name": "المدير المالي",
+  "description": "تطبيق مدير مالي ذكي يعمل بالذكاء الاصطناعي جمناي لمساعدتك في تتبع وإدخال مصاريفك ودخلك عبر الصوت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
